@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning HTML, CSS, Javascript and PHP.
 - 💞️ I’m looking to learn more about web development so I can progress in my career, any tips or adivce is appreciated!
-- 📫 If you'd like to contact me please message me here on GitHub.
+- 📫 If you'd like to contact me please message me here (I'm new to GitHub so please bear with me!).
 
 <!---
 Nixter2310/Nixter2310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
