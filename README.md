@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nixter2310 (but you can call me Nicola!).
+- 👋 Hi, I’m Nicola and I'm a web developer based in Liverpool (UK).
 - 👀 I’m interested in front-end web development and UX/UI design.
-- 🌱 I have very good skills in HTML and CSS and basic skills in JS, PHP and WordPress. I have an eye for design too! 
-- 💞️ I’m looking to learn more about web development so I can progress in my career, any tips or adivce is appreciated!
-- 📫 If you'd like to contact me please message me here (I'm new to GitHub so please bear with me!).
+- 🌱 I have excellent skills in HTML, CSS and WordPress plus basic skills in JS and PHP. I have an eye for design too! 
+- 💞️ I’m looking to learn more about web development so I can progress in my career, any tips or adivce is much appreciated!
+- 📫 If you'd like to contact me please message me here, I'm also on LinkedIn and Twitter.
 
 <!---
 Nixter2310/Nixter2310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
